@@ -1,16 +1,21 @@
 _repo: Mitos-supersticiones-y-supervivencias-populares-de-Bolivia_58425
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Romero, Belisario Diaz
     gutenberg_agent_id: '49949'
     url: http://www.gutenberg.org/2009/agents/49949
+covers:
+- cover_type: archival
+  image_path: 58425-h/images/cover.jpg
 creator:
   author:
     agent_name: Paredes, Manuel Rigoberto
     gutenberg_agent_id: '49948'
     url: http://www.gutenberg.org/2009/agents/49948
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58425#Mitos-supersticiones-y-supervivencias-populares-de-Bolivia
 gutenberg_issued: '2018-12-08'
 gutenberg_type: Text
 identifiers:
